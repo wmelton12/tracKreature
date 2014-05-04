@@ -9,3 +9,4 @@ tracKreature is a database and website that allows users to input data about spe
 
 1. App integration
 2. Easy identification based on a nested tree of physical characteristics navigated by swiping.
+3. Expand this to other types of data - this can be used to track any population data over space and time.
